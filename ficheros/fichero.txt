@@ -1,0 +1,4 @@
+Este es un fichero de prueba para verificar la búsqueda de cadenas
+dentro de un fichero.
+Texto de prueba.
+Probando probando.
